@@ -748,7 +748,7 @@ MonoBehaviour:
   cam: {fileID: 330585546}
   actionDataList:
   - {fileID: 11400000, guid: e1b1eed9e17276641a30f2bcc4d2541c, type: 2}
-  - {fileID: 11400000, guid: e1b1eed9e17276641a30f2bcc4d2541c, type: 2}
+  - {fileID: 11400000, guid: 714b49d80b8046644b6619bfe5a891cb, type: 2}
   comboSystem: {fileID: 1689454096}
   fxTransform: {fileID: 1296398189}
 --- !u!143 &1689454098
