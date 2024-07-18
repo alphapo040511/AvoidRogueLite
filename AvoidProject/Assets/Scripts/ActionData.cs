@@ -16,6 +16,9 @@ public class ActionData : ScriptableObject
     [SerializeField] public GameObject fxObject;
 
     private AnimationClip eventClip;
+    private AnimationClip nextClip;             //액션에 다음 동작이 있을 경우를 위해서 추가
+
+    [SerializeField] public bool multyClip;     //멀티 클립 옵션 추가
 
     public AnimationClip EventClip
     {

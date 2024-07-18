@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5e1a07db5fb181b4692164791f77134c, type: 3}
-  m_Name: Attack_001
+  m_Name: Attack_003
   m_EditorClassIdentifier: 
-  aniName: Attack1
-  mecanimName: 2H@Attack01
+  aniName: Attack3
+  mecanimName: 2H@Attack03
   nextNecanimName: 
-  fxTime: 0.5
+  fxTime: 0.35
   layerName: 
-  waitTime: 1.6000001
+  waitTime: 1.4333334
   nextWaitTime: 0
-  fxObject: {fileID: 1693536659502684113, guid: 2461447e65361e34a81983b16ded80a5,
+  fxObject: {fileID: 1693536659502684113, guid: 9d170ebe121c3514ca22a349d265f0d2,
     type: 3}

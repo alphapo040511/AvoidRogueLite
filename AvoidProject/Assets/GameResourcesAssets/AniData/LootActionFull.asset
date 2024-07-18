@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5e1a07db5fb181b4692164791f77134c, type: 3}
-  m_Name: Attack_001
+  m_Name: LootActionFull
   m_EditorClassIdentifier: 
-  aniName: Attack1
-  mecanimName: 2H@Attack01
-  nextNecanimName: 
-  fxTime: 0.5
+  aniName: Loot
+  mecanimName: BasicMotions@Loot01 - Start
+  nextNecanimName: BasicMotions@Loot01 - End
+  fxTime: 0
   layerName: 
-  waitTime: 1.6000001
+  waitTime: 0.7666667
   nextWaitTime: 0
-  fxObject: {fileID: 1693536659502684113, guid: 2461447e65361e34a81983b16ded80a5,
-    type: 3}
+  fxObject: {fileID: 0}
+  multyClip: 1
